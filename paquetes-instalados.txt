@@ -1,3 +1,7 @@
 npm install react-icons --save
 
 npm install react-router-dom
+
+problemas con Switch solucíon instalar react-router-dom versión 5.2
+
+npm install react-router-dom@5.2.0
